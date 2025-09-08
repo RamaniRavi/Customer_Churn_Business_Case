@@ -22,23 +22,20 @@ This repository helps identify *who* is likely to churn and *why*, so the busine
 customer-churn-business-case/
 │
 ├── data/
-│   └── PRCL-0017_Customer_Churn_Business_case_dataset.csv
-│
-├── notebooks/
-│   └── PRCL-0017_Customer_Churn_Business_case.ipynb
+│   └── Customer_Churn_Business_case_dataset.csv
 │
 ├── models/
-│   └── PRCL-0017_Churn.pkl
+│   └── Customer_Churn.pkl
 │
 ├── reports/
 │   ├── business/
 │   │   ├── Customer Churn Report.pdf
 │   │   ├── Customer Churn Report.docx
-│   │   └── PRCL-0017 Customer Churn Business case (1).pdf
-│   ├── dashboards/
-│   │   └── customer churn dashboard.pdf
-│   └── visuals/   # plots (feature importance, confusion matrix, etc.)
-│
+│   │   └── Customer Churn Business case.pdf
+│   └── dashboards/
+│       └── customer churn dashboard.pdf
+|
+├── Customer_Churn_Business_case.ipynb
 ├── requirements.txt
 └── README.md
 ```

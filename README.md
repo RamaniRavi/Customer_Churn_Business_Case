@@ -158,7 +158,5 @@ X.to_csv("scored_customers.csv", index=False)
 
 ---
 
-## 📜 License & Attribution
-
-Add your license here (MIT recommended).  
-Attribution: Project built using anonymized No-Churn Telecom dataset and business context.
+## Attribution
+- Project built using anonymized No-Churn Telecom dataset and business context.

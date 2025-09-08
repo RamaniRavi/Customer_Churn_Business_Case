@@ -22,8 +22,7 @@ This repository helps identify *who* is likely to churn and *why*, so the busine
 customer-churn-business-case/
 │
 ├── data/
-│   ├── raw/
-│   │   └── PRCL-0017_Customer_Churn_Business_case_dataset.csv
+│   └── PRCL-0017_Customer_Churn_Business_case_dataset.csv
 │
 ├── notebooks/
 │   └── PRCL-0017_Customer_Churn_Business_case.ipynb
